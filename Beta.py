@@ -1,0 +1,2 @@
+from E911 import EID_MUBARAK
+EID_MUBARAK
