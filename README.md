@@ -12,7 +12,7 @@ $ pkg install python2
 
 $ git clone https://github.com/Mr-Beta-Version/E911
 
-$ cd F711
+$ cd E911
 
 $ python2 Beta.py
 
